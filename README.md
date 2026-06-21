@@ -1,4 +1,4 @@
-# 🎓 smart academic performance tracker
+# 🎓 Smart academic performance tracker
 
 An advanced AI-powered College Internal Marks Management System developed using HTML, CSS, JavaScript, Chart.js, SheetJS, jsPDF, and Machine Learning integration.
 
